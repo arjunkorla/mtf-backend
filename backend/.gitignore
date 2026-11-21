@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.ruff_cache/
+
+# Runtime FYERS session (access/refresh tokens) -- never commit
+.runtime/
